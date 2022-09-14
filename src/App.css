@@ -57,3 +57,16 @@ th,
 td {
   border: 1px solid black;
 }
+
+/* Register */
+.form-div {
+  margin: auto;
+  margin-top: 5rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.form-div input {
+  margin: 0.5rem;
+  padding: 0 0.5rem 0 0.5rem;
+}

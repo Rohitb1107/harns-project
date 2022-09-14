@@ -125,6 +125,21 @@
       "first_name": "Rohit",
       "email": "rohit@china.com.cn",
       "gender": "Male"
+    },
+    {
+      "name": "Thor",
+      "gender": "male",
+      "id": 22
+    },
+    {
+      "name": "Hulk",
+      "gender": "Male",
+      "id": 23
+    },
+    {
+      "name": "Tony Stark",
+      "gender": "Male",
+      "id": 24
     }
   ]
 }
