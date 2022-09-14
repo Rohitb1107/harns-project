@@ -1,0 +1,130 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "first_name": "Farrel",
+      "email": "fwhyteman0@china.com.cn",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Angelia",
+      "email": "ageorghiou1@nhs.uk",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Dougie",
+      "email": "djuara2@about.me",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "first_name": "Lois",
+      "email": "lbever3@constantcontact.com",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "first_name": "Rebekkah",
+      "email": "rnesbit4@ifeng.com",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Alejoa",
+      "email": "aadmans5@networkadvertising.org",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "first_name": "Devlen",
+      "email": "delston6@vinaora.com",
+      "gender": "Non-binary"
+    },
+    {
+      "id": 8,
+      "first_name": "Rosy",
+      "email": "rkynastone7@disqus.com",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Angelle",
+      "email": "asykes8@wikimedia.org",
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "first_name": "Keriann",
+      "email": "kbudnk9@nifty.com",
+      "gender": "Non-binary"
+    },
+    {
+      "id": 11,
+      "first_name": "Tonnie",
+      "email": "tmacoureka@google.pl",
+      "gender": "Male"
+    },
+    {
+      "id": 12,
+      "first_name": "Violetta",
+      "email": "vhatterb@hostgator.com",
+      "gender": "Bigender"
+    },
+    {
+      "id": 13,
+      "first_name": "Vail",
+      "email": "vweatherhillc@360.cn",
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "first_name": "Eadith",
+      "email": "epoed@timesonline.co.uk",
+      "gender": "Bigender"
+    },
+    {
+      "id": 15,
+      "first_name": "Darwin",
+      "email": "dbartolommeoe@usatoday.com",
+      "gender": "Male"
+    },
+    {
+      "id": 16,
+      "first_name": "Silvain",
+      "email": "skarusf@webnode.com",
+      "gender": "Bigender"
+    },
+    {
+      "id": 17,
+      "first_name": "Teodoro",
+      "email": "tlamersg@unblog.fr",
+      "gender": "Male"
+    },
+    {
+      "id": 18,
+      "first_name": "Barclay",
+      "email": "bloughrenh@cdbaby.com",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "first_name": "Adrienne",
+      "email": "aarnkei@mit.edu",
+      "gender": "Polygender"
+    },
+    {
+      "id": 20,
+      "first_name": "Heloise",
+      "email": "hvarleyj@accuweather.com",
+      "gender": "Female"
+    },
+    {
+      "id": 21,
+      "first_name": "Rohit",
+      "email": "rohit@china.com.cn",
+      "gender": "Male"
+    }
+  ]
+}

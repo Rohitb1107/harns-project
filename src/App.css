@@ -37,3 +37,23 @@
   text-decoration: none;
   color: black;
 }
+
+/* UsersData */
+.table-div {
+  margin: auto;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.table-title {
+  text-align: center;
+  font-size: 3rem;
+}
+
+table,
+thead,
+tr,
+th,
+td {
+  border: 1px solid black;
+}
